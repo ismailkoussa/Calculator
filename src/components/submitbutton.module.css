@@ -1,0 +1,11 @@
+.submitButton {
+    padding: 25px 108px;
+    width: 100px;
+    background-color: rgb(57, 56, 55);
+    border-radius: 10px;
+    text-align: end;
+    margin: 5px;
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: bolder;
+  }

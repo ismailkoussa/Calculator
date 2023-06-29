@@ -1,0 +1,11 @@
+.normalButton {
+    padding: 30px 50px;
+    width: 25px;
+    background-color: orange;
+    border-radius: 10px;
+    margin: 5px;
+    font-size: xx-large;
+    color: white;
+    text-align: right;
+    font-weight: bolder;
+  }
